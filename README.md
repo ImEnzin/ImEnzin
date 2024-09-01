@@ -1,11 +1,16 @@
-- Arthur Abonizio RM 555506
-- Enzo Vinycius RM 558225
-- Gustavo Pierri RM 558928
-- Gabriel Belo RM 551669
+Olá, me chamo Enzo
+Sou um estudante de Engenharia de Software no primeiro ano, apaixonado por desenvolvimento front-end e por construir interfaces de usuário envolventes e funcionais. Atualmente, estou focando em aprimorar minhas habilidades em JavaScript, HTML, e CSS. Estou sempre aberto a aprender novas tecnologias e colaborar em projetos interessantes!
 
-O sistema descrito constitui uma componente essencial do projeto Vinheria Agnello, o qual tem como finalidade principal o monitoramento dos estoques de vinho. Por meio da utilização de um Arduino e de sensores específicos, este sistema é capaz de registrar informações relativas à luminosidade e à temperatura do ambiente onde os vinhos estão armazenados.
+🚀 Habilidades atuais:
 
-A partir dos dados obtidos, o sistema é projetado para analisar as condições ambientais e, com base nesta análise, emitir notificações sobre o estado atual do ambiente de armazenamento. Este processo de monitoramento contínuo permite uma gestão mais eficaz dos estoques de vinho, contribuindo significativamente para a prevenção de condições adversas que poderiam comprometer a qualidade e a integridade dos produtos.
+JavaScript
+HTML/CSS
+💡 Estou aprendendo:
 
-Dessa forma, o sistema garante não apenas um maior controle sobre os estoques, mas também oferece uma ferramenta valiosa para a manutenção de condições ideais de armazenamento, assegurando a preservação das características e da qualidade dos vinhos.
-  
+React
+Frameworks de front-end
+📚 Interesses:
+
+Desenvolvimento front-end
+Design de interfaces de usuário
+Experiência do usuário (UX)
